@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "holberton-system_engineering-devops",
+			"path": "../../holberton-system_engineering-devops"
+		},
+		{
+			"name": "holbertonschool-low_level_programming",
+			"path": ".."
+		},
+		{
+			"name": "personalproject",
+			"path": "../../personalproject"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"main.h": "c"
+		}
+	}
+}
